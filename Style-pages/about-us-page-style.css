@@ -1,0 +1,45 @@
+/* this section i linked style file to fonts folde */
+
+@font-face {
+    font-family: Geist-Black;
+    src: url(../fonts/static/Geist-Black.ttf);
+}
+
+@font-face {
+    font-family: Geist-Bold;
+    src: url(../fonts/static/Geist-Bold.ttf)
+}
+
+@font-face {
+    font-family: Geist-Medium;
+    src: url(../fonts/static/Geist-Medium.ttf);
+}
+
+@font-face {
+    font-family: RobotoCondensed-Italic;
+    src: url(../fonts/Roboto_Condensed/RobotoCondensed-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: RobotoCondensed;
+    src: url(../fonts/Roboto_Condensed/RobotoCondensed-VariableFont_wght.ttf);
+}
+    
+    /* in this section I defined main color for style pages */
+    
+:root{
+    --underline-color : #f83e31;
+    --text-color: #ffff;
+    --paraghraph-color: #5c5c5c;
+    --course-col-color: #fcfbc4;
+    --poster-color: rgba(266,0,0,0.7);
+    --userBackground-color: #eff0d0;
+}
+
+  /* MAIN STYLE FOR ABOUT US PAGE */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
