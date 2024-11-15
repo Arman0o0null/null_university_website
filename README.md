@@ -1,10 +1,10 @@
-#Null University Website Project
+# Null University Website Project
 
-Description
+**Description**
 
 This project is a responsive university website developed using HTML, CSS, and PHP. It showcases a user-friendly interface and various features to represent a university's online presence effectively.
 
-#Features
+# Features
 
 1_Fully responsive design, compatible with devices of all screen sizes.
 
@@ -12,7 +12,7 @@ This project is a responsive university website developed using HTML, CSS, and P
 
 3_Clean and structured code for easy customization.
 
-#Technologies Used
+# Technologies Used
 
 .HTML5: For the website's structure and content.
 
@@ -21,3 +21,5 @@ This project is a responsive university website developed using HTML, CSS, and P
 .PHP: For server-side scripting and dynamic functionality.
 
 .javaScript: for make it DOM nad respansive design.
+
+# THANKS FOR READ THIS SHEET.
